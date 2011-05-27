@@ -36,3 +36,6 @@ class Problema1
 		cont
 	end
 end
+
+
+Problema1.new
