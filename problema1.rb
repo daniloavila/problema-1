@@ -15,6 +15,8 @@ class Problema1
 			end
 		end
 
+		puts "Numero: #{@numero} - Itens:#{@itens}"
+
 	end
 
 	def self.calculate numero
